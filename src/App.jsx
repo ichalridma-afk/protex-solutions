@@ -1,0 +1,8 @@
+import ProtexSolutions from './ProtexSolutions'
+
+function App() {
+  return <ProtexSolutions />
+}
+
+export default App
+
